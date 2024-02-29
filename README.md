@@ -4,7 +4,7 @@ This is a weather app built using ReactJS. It fetches weather data from the Open
 
 ## Features
 
-1. _Location-based Weathe_r: Provides current weather information based on the user's location.
+1. _Location-based Weather_: Provides current weather information based on the user's location.
 2. _Detailed Weather Information_: Displays humidity, wind speed, and a brief description of the weather condition.
 3. _Responsive Design_: The app is designed to work seamlessly across various screen sizes, ensuring a consistent user experience.
 
