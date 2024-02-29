@@ -10,8 +10,8 @@ This is a weather app built using ReactJS. It fetches weather data from the Open
 
 ## Technology Stacks
 
-• ReactJS: A JavaScript library for building user interfaces.<b>
-• Axios: A promise-based HTTP client for making API requests.<b>
+• ReactJS: A JavaScript library for building user interfaces.  
+• Axios: A promise-based HTTP client for making API requests.  
 • OpenWeatherMap API: Provides weather data and forecasts for various locations worldwide.
 
 
